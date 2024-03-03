@@ -18,8 +18,8 @@ The application extracts stocks opening and closing prices for provided list of 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/TrololoLi/met_objects_batching.git
-   cd met_objects_batching
+   git clone https://github.com/TrololoLi/stock_price.git
+   cd stock_price
    ```
 
 2. **Set Up a Python Virtual Environment (Optional but Recommended)**
